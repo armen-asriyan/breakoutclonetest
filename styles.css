@@ -1,0 +1,37 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1B1B32;
+    color: #F5F6F7;
+    font-size: 20px;
+    font-family: "VT323", monospace;
+    text-align: center;
+}
+
+.title h1 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+canvas {
+    display: block;
+    width: 30vw;
+    height: 80vh;
+    min-width: 400px;
+    background-color: black;
+    border: 1px solid #F5F6F7;
+}
+
+/* #reset-button {
+    width: 200px;
+    font-size: 1.2rem;
+    background-color: rgb(201, 195, 195);
+    border-radius: 7px;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+} */
