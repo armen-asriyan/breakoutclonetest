@@ -12,16 +12,12 @@ body {
     text-align: center;
 }
 
-.title h1 {
+/* .title h1 {
     margin-top: 0;
     margin-bottom: 10px;
-}
+} */
 
 canvas {
-    display: block;
-    width: 30vw;
-    height: 80vh;
-    min-width: 400px;
     background-color: black;
     border: 1px solid #F5F6F7;
 }
